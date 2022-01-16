@@ -2,6 +2,7 @@
 The goal of this project is to predict arrival delays of commercial flights. 
 
 Files
+
 cleaning.ipynb: this file contains steps taken to clean the data
 
 XGBoost.model.ipynb: this file contains the XGBoost model training and feature selection.
